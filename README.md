@@ -26,7 +26,6 @@ temp_correct.m
 ***
 ### 影像強化與重建：
 TSR.m  
-
 用ENVI調整對比度、熱影像信號重建(thermographic signal reconstruction, TSR)
 ***
 ### 訊號去趨勢化、頻譜分析：
