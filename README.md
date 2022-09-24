@@ -26,6 +26,7 @@ temp_correct.m
 ***
 ### 影像強化與重建：
 TSR.m  
+
 用ENVI調整對比度、熱影像信號重建(thermographic signal reconstruction, TSR)
 ***
 ### 訊號去趨勢化、頻譜分析：
@@ -52,7 +53,7 @@ myfft.m
 三種組織用highpass指令，截止頻率為0.004 Hz，去趨勢化後執行FFT的結果，分成四個頻率段
 ![image](https://user-images.githubusercontent.com/76909063/192106818-d14ccd5f-c67b-4ab1-a71b-467a93bc7c4c.png)
 
-四個頻率段對應到的細胞活動如下圖
+四個頻率段對應到的細胞活動如下圖  
 ![image](https://user-images.githubusercontent.com/76909063/192107159-fd7409e2-4bf6-470c-a62d-85fb800d39ab.png)
 
 
